@@ -12,9 +12,9 @@ And the server
 that goes back to logic
 was good to me.
 What server doing
-can't be seen~by~anyone.
+can't be seen by anyone.
 but I can feel that
-it~is great~to work.
+it is great to work.
 
 This job makes myself happy.
 
