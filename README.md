@@ -50,12 +50,14 @@ AI
 
 - [Cube Las](https://github.com/Las-Desire/Cube_Las)
   - Function approximation
+- [Sadistic-Ai](https://github.com/sadistic-coder/Sadistic-Ai)
 - [RL in basic](https://github.com/Las-Wonho/RL-Basic)
   - 2048 game AI.
   - Using DQN.
   - [Blog](https://medium.com/@haho6629/rl-in-2048-1-d2a769f03d6d)
 - [Still GAN](https://github.com/Las-Wonho/Still-GAN)
 - [Style Transfer NN](https://github.com/Las-Wonho/GSM_Festival)
+- [Liver](https://github.com/Las-Wonho/Livers)
 
 ### Java
 
@@ -101,6 +103,8 @@ Android Appication
 - [Go to Server](https://github.com/Las-Wonho/GoToServer)
   - Server that is rest api server can Share dot picture using goroutine.
 - [GO](https://github.com/Las-Wonho/GO)
+  - Example of golang
+  - Socket server using goroutine.
 
 ### Ruby & Elixir & Rust
 
@@ -120,6 +124,10 @@ Android Appication
 
 ### Paper Work
 
+Hacker News
+
+- [DailyHackerNews](https://github.com/Las-Wonho/dailyHackerNews)
+
 Translate
 
 - [fn.py](https://github.com/Las-Wonho/fn.py)
@@ -132,6 +140,7 @@ Summary
 
 ## Books
 
+- [읽은 책들 정리 리스트](https://github.com/sadistic-coder/BookLibrary/blob/master/infomation.md)
 - Concreate Mathmatics
 - SICP
 - Programming pattern
