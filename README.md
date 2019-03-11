@@ -5,7 +5,7 @@ Wonho's Resume
 
 좋은 코드와 읽기 쉬운 코드를 지향하는 주니어 개발자입니다. 많은 언어와 프로젝트로 폭넓은 경험을 소유하고 있으며 러닝커브가 굉장히 낮아 빨리 배우고 사용 할 수 있습니다. 오픈소스를 사랑합니다.
 
-현재 소프트웨어 마이스터고등학교에 2학년에 재학중입니다. 서버와 인공지능을 주로 하지만 가리지않고 합니다. 아직 고등학생이지만 운영체제를 만들고 인터프리터를 만들면서 학부에서 배워야 할 내용들을 잘 이해하고 있습니다. 예를들어 Stream라이브러리를 개발하면서 Spark에 관한 논문을 읽는등의 활동을 하고있습니다.
+현재 소프트웨어 마이스터고등학교에 3학년에 재학중입니다. 서버와 인공지능을 주로 하지만 가리지않고 합니다. 아직 고등학생이지만 운영체제를 만들고 인터프리터를 만들면서 학부에서 배워야 할 내용들을 어느정도 이해하고 있습니다. 예를들어 Stream라이브러리를 개발하면서 Spark에 관한 논문을 읽는등의 활동을 하고있습니다.
 
 ## Project
 
@@ -158,13 +158,21 @@ Summary
   - Video
 - ML Study group Skynet Leader
   - [Slide](https://docs.google.com/presentation/d/1nBHAwPBKc_TKbvphfVfav_NjHb3dpVVKK2cIikxSRQw/edit?usp=sharing)
-- First Web Developers Leader
-- Cokerthon 2018 third prize
-- Smarteen app challenge 2017
+- Sadistic Coder Organizer
+- Lascala coding Group
 
 ## Job exp
 
-- First Web Developers(04/2018 – Present)
+- Buzzvil(01/2019 - 02/2019)
+
+  - Server Engineer.
+  - Integration many Adnetowrks include VAST type, Native type.
+  - Implementation adnetwork, lineitem report system.
+  - Server environment migration Python 2 to 3.
+  
+## Project exp
+
+- First Web Developers(04/2018 – Present) / changed "Sadistic Coder"
 
   - Team Leader, Fullstack Developer, Devops Engineer.
   - Developed and implemented entire Single Page Application including server, webpage, rest-full API, database.
