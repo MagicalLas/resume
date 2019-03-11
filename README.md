@@ -1,4 +1,5 @@
 # resume
+
 Wonho's Resume
 
 ## Introduce
@@ -16,8 +17,9 @@ Wonho's Resume
 - Git/Github
 - Code review
 - TDD, unit test
+- Domain Driven Design
 - Functional Programming, OOP
-- Linux
+- Linux, Cloud
 
 ### C++
 
@@ -35,7 +37,7 @@ Wonho's Resume
 Web server
 
 - [Twitter Automatics Bot(TBA)](https://github.com/Las-Wonho/TwitterAutomaticBot)
-- [FWD](https://github.com/Las-Wonho/FirstWebDevelop)
+- FWD
   - Using pytest, selenium, docker, flask.
   - Apply TDD, CI, Code review.
 
@@ -97,7 +99,10 @@ Android Appication
 - [Network School](https://github.com/Las-Wonho/Network_School)
   - Using Node.js (koa framework)
   - Front using ajax, DOM.
-
+- [LILA Is Login Api](https://github.com/Las-Wonho/LILA)
+- [S4VE](https://github.com/des5141/S4VE)
+  - nodejs game server
+  
 ### Go
 
 - [Go to Server](https://github.com/Las-Wonho/GoToServer)
