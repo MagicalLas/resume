@@ -67,13 +67,8 @@ Spring boot
 
 - [Java Summer Study Camp](https://github.com/Las-Wonho/JavaStudySummerCamp)
   - Server can compile and excutive source file many languege including C++, Python, Elixir, Ruby.
-
-Socket Server
-
 - [Jakao](https://github.com/Las-Wonho/Jakao)
-
-Android Appication
-
+  - Multi User Chat Socket Server
 - [Go Dot](https://github.com/Las-Wonho/cat_me_Mind)
   - Live share, drawing dot picture using server.
 
@@ -182,9 +177,9 @@ Summary
   - Server Engineer.
   - Integration many Adnetowrks include VAST type, Native type.
   - Implementation adnetwork, lineitem report system.
-  - Server environment migration Python 2 to 3.
+  - Try to server environment migration Python 2 to 3.
   
-## Project exp
+## Team Project exp
 
 - First Web Developers(04/2018 – Present) / changed "Sadistic Coder"
 
@@ -198,4 +193,4 @@ Summary
 
   - Game Programmer, Server engineer, Architecture.
   - Implemented entire game including UI, main logic, networking, server.
-  - Using Unity, php, Java spring boot.
+  - Using Unity, PHP, Java spring boot.
