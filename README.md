@@ -21,7 +21,6 @@ Wonho's Resume
 - Docker
 - CI
 - Git/Github
-- Code review
 - TDD, unit test
 - Domain Driven Design
 - Functional Programming, OOP
@@ -40,22 +39,9 @@ Wonho's Resume
 
 ### Python
 
-Web server
-
-- [Twitter Automatics Bot(TBA)](https://github.com/Las-Wonho/TwitterAutomaticBot)
-- FWD
-  - Using pytest, selenium, docker, flask.
-  - Apply TDD, CI, Code review.
-
-Python Script
-
 - [GithubForest](https://github.com/Las-Wonho/GithubForest)
 - [WebCroller](https://github.com/Las-Wonho/WebCroller)
   - Using Selenium.
-- KakaoTalk Bot
-
-AI
-
 - [Cube Las](https://github.com/Las-Desire/Cube_Las)
   - Function approximation
 - [Sadistic-Ai](https://github.com/sadistic-coder/Sadistic-Ai)
@@ -117,9 +103,6 @@ Spring boot
 - [Rubys](https://github.com/Las-Wonho/Rubys)
 - [Elixir Study](https://github.com/Las-Wonho/ElixerStudy)
   - Dockerlized
-- [Mine Rails](https://github.com/Las-Wonho/MineRailsStudy)
-  - Ruby on rails Project.
-
 ### Dotnet
 
 - [F Doc Vue](https://github.com/Las-Wonho/HashTag_FDocVue)
