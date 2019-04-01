@@ -2,6 +2,12 @@
 
 Wonho's Resume
 
+## Contact
+
+- haho6629@gmail.com
+- 010-7704-6876
+- [Medium](https://medium.com/@haho6629)
+
 ## Introduce
 
 좋은 코드와 읽기 쉬운 코드를 지향하는 주니어 개발자입니다. 많은 언어와 프로젝트로 폭넓은 경험을 소유하고 있으며 러닝커브가 굉장히 낮아 빨리 배우고 사용 할 수 있습니다. 오픈소스를 사랑합니다.
@@ -24,11 +30,11 @@ Wonho's Resume
 ### C++
 
 - [Civilizationpp](https://github.com/utilForever/Civilizationpp)
-- [Stream](https://github.com/Las-Wonho/Stream)
+  - Civilization simulator using C++ with some reinforcement learning
 - [HieOS](https://github.com/Las-Wonho/HieOS)
   - Hand made Operating service.
 - [SFML_Mes](https://github.com/Las-Wonho/SFML_Mes)
-  - 2048 game
+  - 2048 game using SFML
 - [CppHeui](https://github.com/Las-Wonho/CppHeui)
   - Inperpreter for 아희 languege.
 
@@ -151,10 +157,6 @@ Summary
 - Refactoring
 - Implementaion Patterns
 
-## Blog
-
-[Medium](https://medium.com/@haho6629)
-
 ## Certification
 
 - ISTQB CTFL
@@ -170,16 +172,16 @@ Summary
 - Sadistic Coder Organizer
 - Lascala coding Group
 
-## Job exp
+## Job Experience
 
 - Buzzvil(01/2019 - 02/2019)
 
-  - Server Engineer.
-  - Integration many Adnetowrks include VAST type, Native type.
+  - Server Engineer(internship).
+  - Integration many Adnetowrks include VAST, Native type.
   - Implementation adnetwork, lineitem report system.
   - Try to server environment migration Python 2 to 3.
   
-## Team Project exp
+## Team Project Experience
 
 - First Web Developers(04/2018 – Present) / changed "Sadistic Coder"
 
