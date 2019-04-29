@@ -20,7 +20,7 @@
 - Programming Practice
   - C, C++, C#을 포함한 여러가지 언어를 배웠습니다. C++로 SFML을 사용하여 2048게임을 제작해보았고 C#(Nancy Framework)을 이용하여 [도서관리 웹 서버](https://github.com/Las-Wonho/ANancy)를 제작하였습니다.
 - Software Engineering
-  - 애자일과 소프트웨어 테스팅을 접하여 자동화된 테스트코드를 작성해보았고 여러 디자인 패턴을 구현해보았습니다.
+  - 애자일과 소프트웨어 테스팅을 접하여 자동화된 테스트코드를 작성해보았고 여러 디자인 패턴을 구현해보았습니다. 소프트웨어 테스팅 자격증을 취득하였습니다.
 - DataBase Practice
   - Nodejs을 사용하여 유저 관리 서비스를 따로 분리하여 데이터베이스를 직접 사용하지않고 API만 사용하여 유저를 관리할 수 있는 [서버](https://github.com/Las-Wonho/LILA)를 제작하였습니다.
 - Artificial Intelligence
