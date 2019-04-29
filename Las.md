@@ -25,7 +25,7 @@
     - Organizer(부장)
 - 커리큘럼
   - Programming Practice
-    - C, C++, C#을 포함한 여러가지 언어를 배웠습니다. C++로 SFML을 사용하여 [2048게임]을 제작해보았고 C#(Nancy Framework)을 이용하여 [도서관리 웹 서버](https://github.com/Las-Wonho/ANancy)를 제작하였습니다.
+    - C, C++, C#을 포함한 여러가지 언어를 배웠습니다. C++로 SFML을 사용하여 [2048게임](https://github.com/Las-Wonho/SFML_Mes)을 제작해보았고 C#(Nancy Framework)을 이용하여 [도서관리 웹 서버](https://github.com/Las-Wonho/ANancy)를 제작하였습니다.
   - Software Engineering
     - 애자일과 소프트웨어 테스팅을 접하여 자동화된 테스트코드를 작성해보았고 여러 디자인 패턴을 구현해보았습니다. 소프트웨어 테스팅 자격증(ISTQB)을 취득하였습니다.
   - DataBase Practice
