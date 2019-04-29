@@ -38,10 +38,6 @@
 - LazyPython
   - http://github.com/Las-Wonho/LazyPython
   - Library for Pure Functional Programming.
-- Sadistix-AI
-  - https://github.com/sadistic-coder/Sadistic-Ai
-  - Anime Image Generator
-  - Using Tensorflow, DCGAN, WGAN, Selenium, OpenCv.
 - GoDot
   - Server : https://github.com/Las-Wonho/GoToServer
   - App : https://github.com/Las-Wonho/cat_me_Mind
@@ -53,6 +49,10 @@
 - Jakao
   - http://github.com/Las-Wonho/Jakao
   - IRC Server for putty client.
+- Sadistix-AI
+  - https://github.com/sadistic-coder/Sadistic-Ai
+  - Anime Image Generator
+  - Using Tensorflow, DCGAN, WGAN, Selenium, OpenCv.
 
 ## TEAM PROJECT
 
