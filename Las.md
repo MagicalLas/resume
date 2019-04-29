@@ -1,23 +1,20 @@
 # Wonho Ha
 
-## Contact
+## CONTACT
 
 - haho6629@gmail.com
 - 010-7704-6876
 - [Medium](https://medium.com/@haho6629)
+- Twiter
+- Facebook
+- LinkedIn
+- Github
 
-## Introduce
+## INTRO
 
 좋은 코드와 읽기 쉬운 코드를 지향하는 주니어 개발자입니다. 새로운 언어를 배우는것과 책읽는걸 좋아합니다. 러닝커브가 굉장히 낮아 빨리 배우고 사용 할 수 있습니다. 또한 오픈소스를 사랑합니다.
 
-## Tool
-
-- Docker
-- GCP
-- Git
-- Linux
-
-## Education
+## EDUCATION
 
 광주 소프트웨어 마이스터고등학교(2017~)
 
@@ -36,7 +33,7 @@
 - Oprating System
   - Hand Make Operating System(https://github.com/Las-Wonho/HieOS)
 
-## Project
+## TOY PROJECT
 
 - LazyPython
   - http://github.com/Las-Wonho/LazyPython
@@ -68,7 +65,7 @@ Buzzvil : Server Engineer
 - Intergration AdNetworks include Banner, VAST, Native Type API.
 - Daily ADNetowrk Inpression, Revunue Monitoring Command(Intergration Slack, Execute with Jenkins)
 
-## Interest
+## INTEREST
 
 - Clean Code
 - TDD
