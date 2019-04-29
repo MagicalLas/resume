@@ -3,11 +3,11 @@
 ## CONTACT
 
 - haho6629@gmail.com
+- [Github](https://github.com/Las-Wonho)
 - [Medium](https://medium.com/@haho6629)
 - [Twiter](https://twitter.com/LasWonho)
 - [Facebook](https://www.facebook.com/wonho.ha.1466)
 - [LinkedIn](https://www.linkedin.com/in/wonho-h-a8a70913b/)
-- [Github](https://github.com/Las-Wonho)
 
 ## SUMMARY
 
@@ -17,53 +17,59 @@
 
 광주 소프트웨어 마이스터고등학교(2017~)
 
-- Programming Practice
-  - C, C++, C#을 포함한 여러가지 언어를 배웠습니다. C++로 SFML을 사용하여 2048게임을 제작해보았고 C#(Nancy Framework)을 이용하여 [도서관리 웹 서버](https://github.com/Las-Wonho/ANancy)를 제작하였습니다.
-- Software Engineering
-  - 애자일과 소프트웨어 테스팅을 접하여 자동화된 테스트코드를 작성해보았고 여러 디자인 패턴을 구현해보았습니다. 소프트웨어 테스팅 자격증(ISTQB)을 취득하였습니다.
-- DataBase Practice
-  - Nodejs을 사용하여 유저 관리 서비스를 따로 분리하여 데이터베이스를 직접 사용하지않고 API만 사용하여 유저를 관리할 수 있는 [서버](https://github.com/Las-Wonho/LILA)를 제작하였습니다.
-- Oprating System
-  - Hand Make Operating System(https://github.com/Las-Wonho/HieOS)
-- Network Programming
+- 동아리
+  - Sadistix : 프로그래밍 실력 증진 동아리
+    - Organizer
+    - https://github.com/sadistic-coder
+  - 아이 : 인공지능 연구 동아리
+    - Organizer(부장)
+- 커리큘럼
+  - Programming Practice
+    - C, C++, C#을 포함한 여러가지 언어를 배웠습니다. C++로 SFML을 사용하여 [2048게임]을 제작해보았고 C#(Nancy Framework)을 이용하여 [도서관리 웹 서버](https://github.com/Las-Wonho/ANancy)를 제작하였습니다.
+  - Software Engineering
+    - 애자일과 소프트웨어 테스팅을 접하여 자동화된 테스트코드를 작성해보았고 여러 디자인 패턴을 구현해보았습니다. 소프트웨어 테스팅 자격증(ISTQB)을 취득하였습니다.
+  - DataBase Practice
+    - Nodejs을 사용하여 유저 관리 서비스를 따로 분리하여 데이터베이스를 직접 사용하지않고 API만 사용하여 유저를 관리할 수 있는 [서버](https://github.com/Las-Wonho/LILA)를 제작하였습니다.
+  - Oprating System
+    - Hand Make Operating System : https://github.com/Las-Wonho/HieOS
+
+
+## SKILLSET
+
+- Server Development
+  - GoDot
+    - Server : https://github.com/Las-Wonho/GoToServer
+    - App : https://github.com/Las-Wonho/cat_me_Mind
+    - Go Server and Android App for Dot Canvus.
+  - SHTTP
+    - https://github.com/sadistic-coder/Shttp
+    - Web Server for Happy Cuples.
+    - Scala(http4s), Java(spring-boot) 버전이 있습니다.
+  - Jakao
+    - http://github.com/Las-Wonho/Jakao
+    - IRC Server for putty client.
+  - Network_School
+    - https://github.com/Las-Wonho/Network_School
+    - Koa라는 프레임워크를 사용하여 웹서버를 구상하였습니다. 윈도우 프로그램에서 steam과 같이 자신이 만든 프로젝트를 배포할 수 있는 웹서버입니다.
+  - Java Summer Study Camp
+    - https://github.com/Las-Wonho/JavaStudySummerCamp
+    - Server can compile and excutive source file many languege including C++, Python, Elixir, Ruby.
+
 - Artificial Intelligence
-  - Tensorflow
-- Data Structure
-- Java Programming
-- Web Programming
-- App Programming
+  - Sadistix-AI
+    - https://github.com/sadistic-coder/Sadistic-Ai
+    - Anime Image Generator
+    - Using Tensorflow, DCGAN, WGAN, Selenium, OpenCv.
+  - Cube Las
+    - https://github.com/Las-Desire/Cube_Las
+    - Function approximation에 관한 여러 실험을 해보았습니다.
 
-## TOY PROJECT
-
-- LazyPython
-  - http://github.com/Las-Wonho/LazyPython
-  - Library for Pure Functional Programming.
-- GoDot
-  - Server : https://github.com/Las-Wonho/GoToServer
-  - App : https://github.com/Las-Wonho/cat_me_Mind
-  - Go Server and Android App for Dot Canvus.
-- SHTTP
-  - https://github.com/sadistic-coder/Shttp
-  - Web Server for Happy Cuples.
-  - Scala(http4s), Java(spring-boot) 버전이 있습니다.
-- Jakao
-  - http://github.com/Las-Wonho/Jakao
-  - IRC Server for putty client.
-- Sadistix-AI
-  - https://github.com/sadistic-coder/Sadistic-Ai
-  - Anime Image Generator
-  - Using Tensorflow, DCGAN, WGAN, Selenium, OpenCv.
-
-## TEAM PROJECT
-
-- SFML_Mes
-  - http://github.com/Las-Wonho/SFML_Mes
-  - 2048 Game using SFML.
-  - 2명이서 진행한 프로젝트입니다. 저는 SFML Client부분을 전부 제작하였습니다. 팀원이 Game Logic을 제작하였으며 API를 정의하여 작업을 하였습니다.
-- Civilizationpp
-  - https://github.com/utilForever/Civilizationpp
-  - Civilization simulator using C++ with some reinforcement learning
-  - 3명이서 진행한 프로젝트입니다. 저는 Unit과 Resource를 설계및, 구현하였고 관련된 테스트를 작성하였습니다. 또한 Unit의 구현클래스를 제작하였으며 HexTile에 Resource를 추가하는 작업을 진행하였습니다.
+- Functional Programming
+  - LazyPython
+    - http://github.com/Las-Wonho/LazyPython
+    - Library for Pure Functional Programming.
+  - Pyconkr 2018 Speaker
+    - Video : https://www.youtube.com/watch?v=UPmQHHpS3cw
 
 ## EXPERIENCE
 
@@ -80,7 +86,4 @@ Buzzvil : Server Engineer
 - MSA
 - SOLID
 - Domain Sepecific Language
-- Functional Programming
-  - Pyconkr 2018 Speaker
-    - Video : https://www.youtube.com/watch?v=UPmQHHpS3cw
 - Pair Programming
