@@ -33,7 +33,6 @@
   - Oprating System
     - Hand Make Operating System : https://github.com/Las-Wonho/HieOS
 
-
 ## SKILLSET
 
 - Server Development
@@ -76,7 +75,7 @@
 Buzzvil : Server Engineer
 
 - Intergration AdNetworks include Banner, VAST, Native type API.
-- Daily AdNetowrk inpression, revunue monitoring command(Intergration Slack, Execute with Jenkins)
+- Daily AdNetowrk inpression, revunue monitoring command
 
 ## INTEREST
 
