@@ -5,10 +5,10 @@
 - haho6629@gmail.com
 - 010-7704-6876
 - [Medium](https://medium.com/@haho6629)
-- Twiter
-- Facebook
-- LinkedIn
-- Github
+- [Twiter](https://twitter.com/LasWonho)
+- [Facebook](https://www.facebook.com/wonho.ha.1466)
+- [LinkedIn](https://www.linkedin.com/in/wonho-h-a8a70913b/)
+- [Github](https://github.com/Las-Wonho)
 
 ## SUMMARY
 
@@ -19,10 +19,13 @@
 광주 소프트웨어 마이스터고등학교(2017~)
 
 - Programming Practice
-  - Programming에 필요한 여러가지 언어를 배우는 수업입니다. C, C++, C#을 배웠습니다.
+  - Programming에 필요한 여러가지 언어를 배웠습니다. C, C++, C#을 포함한 여러가지 언어를 배웠습니다.
 - Java Programming
 - Software Engineering
 - Network Programming
+- DataBase Practice
+- Artificial Intelligence
+  - Tensorflow
 - Data Structure
 - Web Programming
 - App Programming
