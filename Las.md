@@ -10,7 +10,7 @@
 - LinkedIn
 - Github
 
-## INTRO
+## SUMMARY
 
 좋은 코드와 읽기 쉬운 코드를 지향하는 주니어 개발자입니다. 새로운 언어를 배우는것과 책읽는걸 좋아합니다. 러닝커브가 굉장히 낮아 빨리 배우고 사용 할 수 있습니다. 또한 오픈소스를 사랑합니다.
 
@@ -76,7 +76,7 @@ Buzzvil : Server Engineer
 - Functional Programming
 - Pair Programming
 
-## Possible
+## LANGUAGE
 
 - Python
   - Tensorflow
