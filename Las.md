@@ -78,7 +78,6 @@ Buzzvil : Server Engineer
     - https://github.com/Las-Wonho/FunctionalSanic
     - Sanic Wrapper for LazyPython like http4s
 
-
 ## INTEREST
 
 - Clean Code
