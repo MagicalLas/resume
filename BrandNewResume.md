@@ -34,9 +34,9 @@ Pure functional programming을 할 수 있도록 도와주는 python 라이브�
 
 ## Skill
 
-- python, java, golang, scala
+- Python, Java, Golang, Scala
 
-- tensorflow, keras, spring boot, sanic, django
+- Tensorflow, Keras, Spring Boot, Sanic, Django
 
 - ISTQB
 
@@ -58,6 +58,6 @@ Sadistix Coders는 코딩을 잘하고싶은 사람들이 모인 동아리입니
 
 ### Inspire Others
 
-컨퍼런스, 밋업에서 발표하는 것을 좋아합니다. PyconKR2018에서 함수형 프로그래밍 관련 주제로 발표한 뒤 여러 밋업에서 발표하고있습니다. 최근에는 Golang Korea에서 주최한 5월 MeetUp에서 고등학생이 Golang으로 코딩하기라는 주제로 발표를 하였습니다. 이러한 발표를 하면서 다른사람들에게 자극이 되고 영감을 주는 것을 좋아합니다.
+컨퍼런스, 밋업에서 발표하는 것을 좋아합니다. PyconKR2018에서 함수형 프로그래밍 관련 주제로 발표한 뒤 여러 밋업에서 발표하고있습니다. 회사 내부 세미나에서 TDD에 관하여 발표하였으며 최근에는 Golang Korea에서 주최한 5월 MeetUp에서 고등학생이 Golang으로 코딩하기라는 주제로 발표를 하였습니다. 이러한 발표를 하면서 다른사람들에게 자극이 되고 영감을 주는 것을 좋아합니다.
 
 제 대부분의 프로젝트는 오픈소스로, 깃헙에 공개되며 이와 관련된 내용을 블로그에 포스팅 하기도 합니다. 다른 프로젝트에 기여도 자주 합니다. 이러한 개발자 생태계에 기여하는것을 좋아합니다.
