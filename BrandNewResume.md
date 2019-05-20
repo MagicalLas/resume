@@ -1,7 +1,5 @@
 # Wonho Ha
 
-My name is Wonho Ha aka Las. I am a junior Software engineer.
-
 ## Contact
 
 - haho6629@gmail.com
@@ -10,7 +8,7 @@ My name is Wonho Ha aka Las. I am a junior Software engineer.
 
 ## Who am i
 
-I will be as famous as Laplace.
+I am Wonho Ha aka Las. I will be as famous as Laplace.
 
 ## Experience
 
