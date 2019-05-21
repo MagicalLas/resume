@@ -1,181 +1,63 @@
-# resume
-
-Wonho's Resume
+# Wonho Ha
 
 ## Contact
 
 - haho6629@gmail.com
-- 010-7704-6876
-- [Medium](https://medium.com/@haho6629)
+- https://twitter.com/LasWonho
+- https://github.com/Las-Wonho
 
-## Introduce
+## Who am i
 
-좋은 코드와 읽기 쉬운 코드를 지향하는 주니어 개발자입니다. 많은 언어와 프로젝트로 폭넓은 경험을 소유하고 있으며 러닝커브가 굉장히 낮아 빨리 배우고 사용 할 수 있습니다. 오픈소스를 사랑합니다.
-
-현재 소프트웨어 마이스터고등학교에 3학년에 재학중입니다. 서버와 인공지능을 주로 합니다. 새로운 언어를 배우는것과 책읽는걸 좋아합니다. 다른 사람들에게 좋은 영향을 주는 사람이 되고싶습니다.
-
-## Project
-
-### Tech
-
-- Docker
-- CI
-- Git/Github
-- TDD, unit test
-- Domain Driven Design
-- Functional Programming, OOP
-- Linux, Cloud
-
-### C++
-
-- [Civilizationpp](https://github.com/utilForever/Civilizationpp)
-  - Civilization simulator using C++ with some reinforcement learning
-- [HieOS](https://github.com/Las-Wonho/HieOS)
-  - Hand made Operating service.
-- [SFML_Mes](https://github.com/Las-Wonho/SFML_Mes)
-  - 2048 game using SFML
-- [CppHeui](https://github.com/Las-Wonho/CppHeui)
-  - Inperpreter for 아희 languege.
-
-### Python
-
-- [GithubForest](https://github.com/Las-Wonho/GithubForest)
-- [WebCroller](https://github.com/Las-Wonho/WebCroller)
-  - Using Selenium.
-- [Cube Las](https://github.com/Las-Desire/Cube_Las)
-  - Function approximation
-- [Sadistic-Ai](https://github.com/sadistic-coder/Sadistic-Ai)
-- [RL in basic](https://github.com/Las-Wonho/RL-Basic)
-  - 2048 game AI.
-  - Using DQN.
-  - [Blog](https://medium.com/@haho6629/rl-in-2048-1-d2a769f03d6d)
-- [Still GAN](https://github.com/Las-Wonho/Still-GAN)
-- [Style Transfer NN](https://github.com/Las-Wonho/GSM_Festival)
-- [Liver](https://github.com/Las-Wonho/Livers)
-
-### Java
-
-Spring boot
-
-- [Java Summer Study Camp](https://github.com/Las-Wonho/JavaStudySummerCamp)
-  - Server can compile and excutive source file many languege including C++, Python, Elixir, Ruby.
-- [Jakao](https://github.com/Las-Wonho/Jakao)
-  - Multi User Chat Socket Server
-- [Go Dot](https://github.com/Las-Wonho/cat_me_Mind)
-  - Live share, drawing dot picture using server.
-
-### Unity
-
-- Nigero Work
-  - running game inspire Cookie Run.
-  - Can download [PlayStore](https://play.google.com/store/apps/details?id=com.gsmunity.windrunproject).
-- [Heo-Woo-Rook](https://github.com/eaten-lose/lose)
-  - Healing game. Talk NPC, and decorate all things.
-  - Networking server i made.
-- God of Coding
-  - This game help learning coding.
-
-### JavaScript
-
-- [View Animations](https://github.com/Las-Wonho/ViewAnimation)
-  - Using Express framework.
-  - Css animation.
-- [Twitter Automatics Bot(TBA)](https://github.com/Las-Wonho/TwitterAutomaticBot)
-  - Using Node.js (koa framework)
-  - Front using ajax, DOM.
-- [Network School](https://github.com/Las-Wonho/Network_School)
-  - Using Node.js (koa framework)
-  - Front using ajax, DOM.
-- [LILA Is Login Api](https://github.com/Las-Wonho/LILA)
-- [S4VE](https://github.com/des5141/S4VE)
-  - nodejs game server
-  
-### Go
-
-- [Go to Server](https://github.com/Las-Wonho/GoToServer)
-  - Server that is rest api server can Share dot picture using goroutine.
-- [GO](https://github.com/Las-Wonho/GO)
-  - Example of golang
-  - Socket server using goroutine.
-
-### Ruby & Elixir & Rust
-
-- [Rubys](https://github.com/Las-Wonho/Rubys)
-- [Elixir Study](https://github.com/Las-Wonho/ElixerStudy)
-  - Dockerlized
-### Dotnet
-
-- [F Doc Vue](https://github.com/Las-Wonho/HashTag_FDocVue)
-  - Using Fsharp, Docker, Vue.js.
-  - Circle CI
-- [Similer Code fight](https://github.com/Las-Wonho/shangus)
-  - Code compile, matching server using C#.
-
-### Paper Work
-
-Hacker News
-
-- [DailyHackerNews](https://github.com/Las-Wonho/dailyHackerNews)
-
-Translate
-
-- [fn.py](https://github.com/Las-Wonho/fn.py)
-- [Keko](https://github.com/KerasKorea/KEKOxTutorial)
-
-Summary
-
-- [SkyOS](https://github.com/Las-Wonho/SkyOS)
-- [Nate Lin](https://github.com/Las-Wonho/Nete_Lin)
-
-## Books
-
-- [읽은 책들 정리 리스트](https://github.com/sadistic-coder/BookLibrary/blob/master/infomation.md)
-- Concreate Mathmatics
-- SICP
-- Programming pattern
-- Gof's Design Pattern
-- Effective morden C++, Effective Java 2/E, Effective C#
-- Functional thinking
-- The Pragmatic Programmer
-- Refactoring
-- Implementaion Patterns
-
-## Certification
-
-- ISTQB CTFL
+I am Wonho Ha aka Las. I will be as famous as Laplace.
 
 ## Experience
 
-- Pycon2018_Kr Speaker(python in functional programming)
-  - [Slide](https://www.slideshare.net/wonhoha/pyconkr2018-functional-programming)
-  - [Blog](https://medium.com/@haho6629/pycon2018-%EB%B0%9C%ED%91%9C-%ED%9B%84%EA%B8%B0-8d2ecba2e6ca)
-  - Video
-- ML Study group Skynet Leader
-  - [Slide](https://docs.google.com/presentation/d/1nBHAwPBKc_TKbvphfVfav_NjHb3dpVVKK2cIikxSRQw/edit?usp=sharing)
-- Sadistic Coder Organizer
-- Lascala coding Group
+### LazyPython, Commiter (2019.04.10 ~ NOW)
 
-## Job Experience
+Pure functional programming을 할 수 있도록 도와주는 python 라이브러리입니다. Scala의 cats effect에 많은 영향을 받아 제작하게 되었습니다.
 
-- Buzzvil(01/2019 - 02/2019)
+다른 함수형 라이브러리는 사용 방법이 굉장히 알기 어렵습니다. 그래서 저는 LazyPython의 인터페이스를 설계할 때 EDSL를 적극적으로 활용할 수 있도록 고려하였습니다. 사용자 친화적인 인터페이스를 설계하면서 문서화도 같이 하게 되었습니다. 마크다운으로 사용법을 적고 실제로 동작하는 예시 코드를 작성하기도 하였습니다. 이러한 작업을 하면서 서로 다른 사용법을 발견하였고 조금 더 일관적인 디자인을 달성할 수 있었습니다.
 
-  - Server Engineer(internship).
-  - Integration many Adnetowrks include VAST, Native type.
-  - Implementation adnetwork, lineitem report system.
-  - Try to server environment migration Python 2 to 3.
-  
-## Team Project Experience
+프로젝트를 진행하면서 테스트 코드에 관한 필요성이 커졌습니다. 테스트 코드가 있었으나 실제로 기능하고있지 않았습니다. 저는 CircleCI를 깃헙과 연동한 후 CI 작업을 진행하였고 테스트 코드를 보강하여 현재 커버리지 100%를 유지 중 입니다.
 
-- First Web Developers(04/2018 – Present) / changed "Sadistic Coder"
+이 라이브러리를 단지 재미로 만든 것이 아니라 실제로 활용할 수 있을 정도의 기능을 원하였습니다. 따라서 웹 프레임워크인 sanic을 LazyPython친화적이게 wrapping 하여 functional sanic이라는 라이브러리를 제작하였습니다. 이러한 라이브러리들을 사용하여 Noticification 이라는 간단한 웹서버를 제작하였습니다.
 
-  - Team Leader, Fullstack Developer, Devops Engineer.
-  - Developed and implemented entire Single Page Application including server, webpage, rest-full API, database.
-  - Using Python web framework, Mysql server, Docker, CI.
-  - Apply Test driven development, Git, Code review, Pair programming.
-  - Successfully led the team and made perfect scheduling.
+### Buzzvil, Server Engineer (2019.01.07 ~ 2019.02.28, Internship)
 
-- Heo-Woo-Rook(04/2017 – 10/2017)
+광고를 서빙하는 서버를 작업하였습니다. ElasticSearch, MySQL, Redis, Docker, AWS, Sentry를 사용하였으며 Django로 제작된 서버에서 작업을하였습니다.
 
-  - Game Programmer, Server engineer, Architecture.
-  - Implemented entire game including UI, main logic, networking, server.
-  - Using Unity, PHP, Java spring boot.
+많은 코드베이스가 있는 프로젝트였기에 레거시를 이해하는데 어려움을 겪었습니다. 따라서 git log를 처음부터 따라 읽기 시작하였고 어느정도 구조를 잡을 수 있었습니다.
+
+제가 맡았던 일은 애드네트워크를 연동하는 일이었습니다. 기존에 연동이 되어있던 애드네트워크를 새로운 버전으로 수정하거나 새로운 애드네트워크를 연동하는 일이었습니다. 이 과정에서 Server2Server Integration을 경험하게되었고 여러 오류사항을 체험해보았습니다. 또한 이러한 API호출과정을 테스트코드로 작성하였으며 내부 광고처리 로직을 볼 수 있는 기회가 있었습니다.
+
+## Skill
+
+- Python, Java, Golang, Scala
+
+- Tensorflow, Keras, Spring Boot, Sanic, Django, Koa, Express
+
+- MySQL
+
+- Git
+
+- ISTQB
+
+## More
+
+### I Organize Sadistix Coders
+
+Sadistix Coders는 코딩을 잘하고 싶은 사람들이 모인 동아리입니다. 이 동아리 멤버들은 애자일, 소프트웨어 장인정신에 바탕을 두고 있으며 함께 성장해나가고 있습니다. 이 동아리에서는 매주 페어 프로그래밍을 하고 그 코드를 리뷰합니다. 그리고 좋은 책이나 자료, 정보들을 공유하며 발표를 진행하기도 합니다. 이러한 조직을 이끌어나가면서 함께 성장하는 방법에 대하여 많이 고민하였습니다. 처음엔 어색하고 소극적이던 분위기가 이제는  활기차고 토론이 이루어지는 장소로 바뀌었습니다. 물리적인 거리를 줄여 이야기 편한 환경을 구성했습니다. 그리고 인원이 15명이 넘는 큰 그룹이었기에 작은 그룹으로 쪼개서 이야기를 꺼내기 쉬운 분위기를 만들었습니다. 매주 활동이 끝난 다음엔 회고를 진행합니다. 이러한 동아리 문화가, 활동들이 너무나 행복한 것 같습니다.
+
+### I Love Study
+
+저는 책 읽고 공부하는 것을 좋아합니다. 어릴 때부터 부모님이  책읽는것을 장려하셨습니다. 자본론이나 뉴턴의 프린키피아, 홉스의 리바이어던과 같은 책들을 이 시기에 자주 읽었습니다. 최근에 읽은 책은 `CSAPP`와 `함께 자라기`라는 책입니다. 컴퓨터 구조를 잘 몰랐기에 추상화되지 않은 내부 동작을 알고 싶어서 CSAPP책을 읽게 되었습니다. 저는 매주 서점에 들러 읽고 싶은 책이 있는지, 어떤 책들이 새로 나왔는지 살펴봅니다. 저는 책으로 공부하는 것뿐만 아니라 다양한 언어를 공부하는 것을 좋아합니다. Python, Lisp같은  동적언어부터 C++, Rust 같은 정적언어, Scala, Elixir와 같은 함수형 언어 등, 다양한 언어 종류를 공부하였습니다.
+
+### I Like Anime
+
+저는 애니메이션을 좋아합니다. 중학생 때부터 보아왔으며 제 삶에 많은 영향을 끼쳤습니다. 최근에는 애니메이션의 원작이 되는 소설(라이트노벨)을 자주 읽으며 120권 이상 소장하고 있습니다. 보컬로이드 노래도 듣고 있으며 이 덕분에 일본어 회화가 어느 정도 가능합니다. 이러한 관심사로 일본에 관심을 갖게 되었고 Python Japan 커뮤니티에서 가끔 활동하고 있습니다. 그리고 2019년에 열리는 스칼라 마츠리에 자원봉사 스태프로 참여할 예정입니다.
+
+### Inspire Others
+
+다른 사람들에게 영감을 주는 삶을 살고 싶습니다. 제가 배운 것들을 남과 나누면서 더 좋은 세상을 만들 수 있다고 생각합니다. 제가 배우고 생각한 것들을 공유하기 위한 작은 블로그를 운영 중입니다. 오픈소스 활동도 열심히 하고 있습니다. 대부분의 프로젝트를 오픈소스로 공개하고 있으며 번역 활동도 하고 있습니다. 몇 가지 오픈소스 프로젝트에 참여하였으며 저 또한 다른 분들의 도움을 많이 받고 있습니다.
+
+이러한 활동뿐 아니라 저는 여러 모임에서 발표하는 것을 좋아합니다. PyconKR 2018에서 함수형 프로그래밍에 관한 주제로 처음 발표했고 이 경험은 저에게 많은 도움이 되었습니다. 회사에서 인턴을 하던 기간에 TDD에 관한 주제로 사내세미나에서 발표하기도 하였습니다. 최근에는 Golang Korea 5월 Meetup에서 발표하였습니다. 이러한 활동들이 개발자의 생태계에 좋은 영향을 준다고 생각합니다.
