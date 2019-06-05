@@ -13,6 +13,8 @@
 
 ### LazyPython, Commiter (2019.04.10 ~ NOW)
 
+https://github.com/Las-Wonho/LazyPython
+
 Pure functional programming을 할 수 있도록 도와주는 python 라이브러리입니다. Scala의 cats effect에 많은 영향을 받아 제작하게 되었습니다.
 
 다른 함수형 라이브러리는 사용 방법이 굉장히 알기 어렵습니다. 그래서 저는 LazyPython의 인터페이스를 설계할 때 EDSL를 적극적으로 활용할 수 있도록 고려하였습니다. 사용자 친화적인 인터페이스를 설계하면서 문서화도 같이 하게 되었습니다. 마크다운으로 사용법을 적고 실제로 동작하는 예시 코드를 작성하기도 하였습니다. 이러한 작업을 하면서 서로 다른 사용법을 발견하였고 조금 더 일관적인 디자인을 달성할 수 있었습니다.
